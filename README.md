@@ -20,24 +20,24 @@ A Python script that fetches data from the Star Wars API (SWAPI) and categorizes
 
 2. **Create and activate** a virtual environment (recommended):
 
-    cd star-wars-api-script  
-    python -m venv venv  
+    `cd star-wars-api-script`
+    `python -m venv venv`  
 
    - **Windows**:
         
-        venv\Scripts\activate
+        `venv\Scripts\activate`
 
    - **macOS/Linux**:
         
-        source venv/bin/activate
+        `source venv/bin/activate`
 
 3. **Install dependencies**:
 
-    pip install -r requirements.txt
+    `pip install -r requirements.txt`
 
 4. **Run the script**:
 
-    python star_wars_characters.py
+    `python star_wars_characters.py`
 
 ## How It Works
 
